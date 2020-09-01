@@ -1,0 +1,5392 @@
+fileFormatVersion: 2
+guid: db7b33ece74a9894e88f6fabe8912805
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 528910309998686812
+    second: crosshairs_tilesheet_white@2_0
+  - first:
+      213: -587917379513268454
+    second: crosshairs_tilesheet_white@2_1
+  - first:
+      213: -3312807332211626428
+    second: crosshairs_tilesheet_white@2_2
+  - first:
+      213: -3754570849801538967
+    second: crosshairs_tilesheet_white@2_3
+  - first:
+      213: 2097321760594909626
+    second: crosshairs_tilesheet_white@2_4
+  - first:
+      213: 1153300463411994836
+    second: crosshairs_tilesheet_white@2_5
+  - first:
+      213: 3877494061209157804
+    second: crosshairs_tilesheet_white@2_6
+  - first:
+      213: -5951258188133444110
+    second: crosshairs_tilesheet_white@2_7
+  - first:
+      213: -5321963298143732788
+    second: crosshairs_tilesheet_white@2_8
+  - first:
+      213: 520264184982114130
+    second: crosshairs_tilesheet_white@2_9
+  - first:
+      213: 7350138824548703760
+    second: crosshairs_tilesheet_white@2_10
+  - first:
+      213: -2679571338785332851
+    second: crosshairs_tilesheet_white@2_11
+  - first:
+      213: -8622908795702062482
+    second: crosshairs_tilesheet_white@2_12
+  - first:
+      213: 5540303376576569214
+    second: crosshairs_tilesheet_white@2_13
+  - first:
+      213: 4438140765504164991
+    second: crosshairs_tilesheet_white@2_14
+  - first:
+      213: 2132752601642460210
+    second: crosshairs_tilesheet_white@2_15
+  - first:
+      213: 7915631057620784706
+    second: crosshairs_tilesheet_white@2_16
+  - first:
+      213: -3548422835301073083
+    second: crosshairs_tilesheet_white@2_17
+  - first:
+      213: 2174502722179048509
+    second: crosshairs_tilesheet_white@2_18
+  - first:
+      213: 6495282836080113541
+    second: crosshairs_tilesheet_white@2_19
+  - first:
+      213: -4692289464475243357
+    second: crosshairs_tilesheet_white@2_20
+  - first:
+      213: 1863458905247812557
+    second: crosshairs_tilesheet_white@2_21
+  - first:
+      213: -4149929298098473301
+    second: crosshairs_tilesheet_white@2_22
+  - first:
+      213: -441911724947170499
+    second: crosshairs_tilesheet_white@2_23
+  - first:
+      213: -8292128766927384561
+    second: crosshairs_tilesheet_white@2_24
+  - first:
+      213: 5535880580243276513
+    second: crosshairs_tilesheet_white@2_25
+  - first:
+      213: -2969090392398502078
+    second: crosshairs_tilesheet_white@2_26
+  - first:
+      213: 9172309467991503091
+    second: crosshairs_tilesheet_white@2_27
+  - first:
+      213: -1585942101541909372
+    second: crosshairs_tilesheet_white@2_28
+  - first:
+      213: 3368965826255252943
+    second: crosshairs_tilesheet_white@2_29
+  - first:
+      213: 1361063997318191139
+    second: crosshairs_tilesheet_white@2_30
+  - first:
+      213: -7534292415662754367
+    second: crosshairs_tilesheet_white@2_31
+  - first:
+      213: 2675542095933210509
+    second: crosshairs_tilesheet_white@2_32
+  - first:
+      213: 8043642028463420434
+    second: crosshairs_tilesheet_white@2_33
+  - first:
+      213: 3736208216589451355
+    second: crosshairs_tilesheet_white@2_34
+  - first:
+      213: 2503070977165665113
+    second: crosshairs_tilesheet_white@2_35
+  - first:
+      213: 3572199747145670660
+    second: crosshairs_tilesheet_white@2_36
+  - first:
+      213: 1341484351498477658
+    second: crosshairs_tilesheet_white@2_37
+  - first:
+      213: -8865529404124732130
+    second: crosshairs_tilesheet_white@2_38
+  - first:
+      213: -1715439034795541441
+    second: crosshairs_tilesheet_white@2_39
+  - first:
+      213: -810478621788118804
+    second: crosshairs_tilesheet_white@2_40
+  - first:
+      213: 3780514320063663552
+    second: crosshairs_tilesheet_white@2_41
+  - first:
+      213: -8572865647058797741
+    second: crosshairs_tilesheet_white@2_42
+  - first:
+      213: -9067969497073595901
+    second: crosshairs_tilesheet_white@2_43
+  - first:
+      213: -7643332034037093650
+    second: crosshairs_tilesheet_white@2_44
+  - first:
+      213: -4467512240149209346
+    second: crosshairs_tilesheet_white@2_45
+  - first:
+      213: -7213470663232955711
+    second: crosshairs_tilesheet_white@2_46
+  - first:
+      213: 1396648572098652639
+    second: crosshairs_tilesheet_white@2_47
+  - first:
+      213: -5677739488334074939
+    second: crosshairs_tilesheet_white@2_48
+  - first:
+      213: 3231114416023804132
+    second: crosshairs_tilesheet_white@2_49
+  - first:
+      213: -2946631237322528490
+    second: crosshairs_tilesheet_white@2_50
+  - first:
+      213: -1688335718058138572
+    second: crosshairs_tilesheet_white@2_51
+  - first:
+      213: 6992610109634322746
+    second: crosshairs_tilesheet_white@2_52
+  - first:
+      213: -6243659388763829204
+    second: crosshairs_tilesheet_white@2_53
+  - first:
+      213: -3328999876683095394
+    second: crosshairs_tilesheet_white@2_54
+  - first:
+      213: 7343473396292251178
+    second: crosshairs_tilesheet_white@2_55
+  - first:
+      213: -4179572777851576415
+    second: crosshairs_tilesheet_white@2_56
+  - first:
+      213: 6854573099649954247
+    second: crosshairs_tilesheet_white@2_57
+  - first:
+      213: 3451650663056870389
+    second: crosshairs_tilesheet_white@2_58
+  - first:
+      213: -6788537879439596100
+    second: crosshairs_tilesheet_white@2_59
+  - first:
+      213: -2781043328653498032
+    second: crosshairs_tilesheet_white@2_60
+  - first:
+      213: -5606941974626773430
+    second: crosshairs_tilesheet_white@2_61
+  - first:
+      213: 3263044536486985618
+    second: crosshairs_tilesheet_white@2_62
+  - first:
+      213: 9032976168502216603
+    second: crosshairs_tilesheet_white@2_63
+  - first:
+      213: -3656194295129503016
+    second: crosshairs_tilesheet_white@2_64
+  - first:
+      213: -3927215407945103374
+    second: crosshairs_tilesheet_white@2_65
+  - first:
+      213: 8811614183876038504
+    second: crosshairs_tilesheet_white@2_66
+  - first:
+      213: -3035322080159931466
+    second: crosshairs_tilesheet_white@2_67
+  - first:
+      213: 7927224672339124696
+    second: crosshairs_tilesheet_white@2_68
+  - first:
+      213: -8770588321070600676
+    second: crosshairs_tilesheet_white@2_69
+  - first:
+      213: 6248650022934093567
+    second: crosshairs_tilesheet_white@2_70
+  - first:
+      213: 7038647815216127841
+    second: crosshairs_tilesheet_white@2_71
+  - first:
+      213: -233825488086522329
+    second: crosshairs_tilesheet_white@2_72
+  - first:
+      213: 9187249136058827315
+    second: crosshairs_tilesheet_white@2_73
+  - first:
+      213: -8767446466039784630
+    second: crosshairs_tilesheet_white@2_74
+  - first:
+      213: -2427428863459819485
+    second: crosshairs_tilesheet_white@2_75
+  - first:
+      213: -5372858016989404669
+    second: crosshairs_tilesheet_white@2_76
+  - first:
+      213: -8611275351580178169
+    second: crosshairs_tilesheet_white@2_77
+  - first:
+      213: -3302989251388151552
+    second: crosshairs_tilesheet_white@2_78
+  - first:
+      213: 4607948453805523284
+    second: crosshairs_tilesheet_white@2_79
+  - first:
+      213: -2633274948060863914
+    second: crosshairs_tilesheet_white@2_80
+  - first:
+      213: -9152566409981013863
+    second: crosshairs_tilesheet_white@2_81
+  - first:
+      213: -6516064003665235378
+    second: crosshairs_tilesheet_white@2_82
+  - first:
+      213: -7063659535989725947
+    second: crosshairs_tilesheet_white@2_83
+  - first:
+      213: 3197793231577876114
+    second: crosshairs_tilesheet_white@2_84
+  - first:
+      213: -2498820978164149463
+    second: crosshairs_tilesheet_white@2_85
+  - first:
+      213: -8670734014570447490
+    second: crosshairs_tilesheet_white@2_86
+  - first:
+      213: -7529975261839585359
+    second: crosshairs_tilesheet_white@2_87
+  - first:
+      213: -251971573780441411
+    second: crosshairs_tilesheet_white@2_88
+  - first:
+      213: 5432296353065877222
+    second: crosshairs_tilesheet_white@2_89
+  - first:
+      213: -859378728689285804
+    second: crosshairs_tilesheet_white@2_90
+  - first:
+      213: -1644002721235174870
+    second: crosshairs_tilesheet_white@2_91
+  - first:
+      213: -8883395777137385523
+    second: crosshairs_tilesheet_white@2_92
+  - first:
+      213: -1946799721571010341
+    second: crosshairs_tilesheet_white@2_93
+  - first:
+      213: 2571553412020174259
+    second: crosshairs_tilesheet_white@2_94
+  - first:
+      213: 2266892587490709115
+    second: crosshairs_tilesheet_white@2_95
+  - first:
+      213: 1979946947065695867
+    second: crosshairs_tilesheet_white@2_96
+  - first:
+      213: 625486608327949111
+    second: crosshairs_tilesheet_white@2_97
+  - first:
+      213: -1715096388770340229
+    second: crosshairs_tilesheet_white@2_98
+  - first:
+      213: 5532477561959472603
+    second: crosshairs_tilesheet_white@2_99
+  - first:
+      213: -1100213402748900454
+    second: crosshairs_tilesheet_white@2_100
+  - first:
+      213: -357474560178456053
+    second: crosshairs_tilesheet_white@2_101
+  - first:
+      213: 4718612075425358862
+    second: crosshairs_tilesheet_white@2_102
+  - first:
+      213: -6675154399238855530
+    second: crosshairs_tilesheet_white@2_103
+  - first:
+      213: -4157448291164981186
+    second: crosshairs_tilesheet_white@2_104
+  - first:
+      213: -1795179841549426649
+    second: crosshairs_tilesheet_white@2_105
+  - first:
+      213: -7513596893590816204
+    second: crosshairs_tilesheet_white@2_106
+  - first:
+      213: -7634196384115356982
+    second: crosshairs_tilesheet_white@2_107
+  - first:
+      213: -9020420613779916413
+    second: crosshairs_tilesheet_white@2_108
+  - first:
+      213: -7885085633173069664
+    second: crosshairs_tilesheet_white@2_109
+  - first:
+      213: 1194916208939470979
+    second: crosshairs_tilesheet_white@2_110
+  - first:
+      213: -7251461425214809161
+    second: crosshairs_tilesheet_white@2_111
+  - first:
+      213: 3718077785569635438
+    second: crosshairs_tilesheet_white@2_112
+  - first:
+      213: -7018362012388290932
+    second: crosshairs_tilesheet_white@2_113
+  - first:
+      213: 2863483992646778643
+    second: crosshairs_tilesheet_white@2_114
+  - first:
+      213: -3238427172830421497
+    second: crosshairs_tilesheet_white@2_115
+  - first:
+      213: -6203333746582888350
+    second: crosshairs_tilesheet_white@2_116
+  - first:
+      213: 858259703356712756
+    second: crosshairs_tilesheet_white@2_117
+  - first:
+      213: -2495369484359104821
+    second: crosshairs_tilesheet_white@2_118
+  - first:
+      213: 630233808131632761
+    second: crosshairs_tilesheet_white@2_119
+  - first:
+      213: 4289152669060439466
+    second: crosshairs_tilesheet_white@2_120
+  - first:
+      213: -1889823730388039810
+    second: crosshairs_tilesheet_white@2_121
+  - first:
+      213: 8773849204138533397
+    second: crosshairs_tilesheet_white@2_122
+  - first:
+      213: 7133115848148725977
+    second: crosshairs_tilesheet_white@2_123
+  - first:
+      213: 7556448655823638854
+    second: crosshairs_tilesheet_white@2_124
+  - first:
+      213: 1886844195907279089
+    second: crosshairs_tilesheet_white@2_125
+  - first:
+      213: -1908700308124628354
+    second: crosshairs_tilesheet_white@2_126
+  - first:
+      213: 2106630123097493540
+    second: crosshairs_tilesheet_white@2_127
+  - first:
+      213: -1429959163607398916
+    second: crosshairs_tilesheet_white@2_128
+  - first:
+      213: -4568529857716364950
+    second: crosshairs_tilesheet_white@2_129
+  - first:
+      213: -7782281328912397186
+    second: crosshairs_tilesheet_white@2_130
+  - first:
+      213: 1084864105533764798
+    second: crosshairs_tilesheet_white@2_131
+  - first:
+      213: -4642916851265464299
+    second: crosshairs_tilesheet_white@2_132
+  - first:
+      213: -5115378524322301242
+    second: crosshairs_tilesheet_white@2_133
+  - first:
+      213: -7327630597310831953
+    second: crosshairs_tilesheet_white@2_134
+  - first:
+      213: -4809753821220919203
+    second: crosshairs_tilesheet_white@2_135
+  - first:
+      213: -2858150346866557794
+    second: crosshairs_tilesheet_white@2_136
+  - first:
+      213: -272327529305315778
+    second: crosshairs_tilesheet_white@2_137
+  - first:
+      213: 5986771632510201590
+    second: crosshairs_tilesheet_white@2_138
+  - first:
+      213: 3588056833868286035
+    second: crosshairs_tilesheet_white@2_139
+  - first:
+      213: -5921974469918503083
+    second: crosshairs_tilesheet_white@2_140
+  - first:
+      213: 2699121182864446290
+    second: crosshairs_tilesheet_white@2_141
+  - first:
+      213: 5155951814527349796
+    second: crosshairs_tilesheet_white@2_142
+  - first:
+      213: -6223772648341267137
+    second: crosshairs_tilesheet_white@2_143
+  - first:
+      213: -8160778364279312225
+    second: crosshairs_tilesheet_white@2_144
+  - first:
+      213: 7389560893381845005
+    second: crosshairs_tilesheet_white@2_145
+  - first:
+      213: 3103373808914560660
+    second: crosshairs_tilesheet_white@2_146
+  - first:
+      213: -8431210285709950439
+    second: crosshairs_tilesheet_white@2_147
+  - first:
+      213: 3369405331379307360
+    second: crosshairs_tilesheet_white@2_148
+  - first:
+      213: 6341944960255151250
+    second: crosshairs_tilesheet_white@2_149
+  - first:
+      213: 2495478492710761870
+    second: crosshairs_tilesheet_white@2_150
+  - first:
+      213: 6435779397671695843
+    second: crosshairs_tilesheet_white@2_151
+  - first:
+      213: 78301405134543833
+    second: crosshairs_tilesheet_white@2_152
+  - first:
+      213: 1286953687762532499
+    second: crosshairs_tilesheet_white@2_153
+  - first:
+      213: 3460549364802000625
+    second: crosshairs_tilesheet_white@2_154
+  - first:
+      213: -6333745016932210288
+    second: crosshairs_tilesheet_white@2_155
+  - first:
+      213: -5969295086437046428
+    second: crosshairs_tilesheet_white@2_156
+  - first:
+      213: -6378094398216434973
+    second: crosshairs_tilesheet_white@2_157
+  - first:
+      213: 2101952712447865108
+    second: crosshairs_tilesheet_white@2_158
+  - first:
+      213: -2057452548940863094
+    second: crosshairs_tilesheet_white@2_159
+  - first:
+      213: -5016200650718267107
+    second: crosshairs_tilesheet_white@2_160
+  - first:
+      213: -6098829072149968796
+    second: crosshairs_tilesheet_white@2_161
+  - first:
+      213: 3669899629550441162
+    second: crosshairs_tilesheet_white@2_0
+  - first:
+      213: 6175503056250063414
+    second: crosshairs_tilesheet_white@2_1
+  - first:
+      213: 3753061126328834526
+    second: crosshairs_tilesheet_white@2_2
+  - first:
+      213: 1572774279543422550
+    second: crosshairs_tilesheet_white@2_3
+  - first:
+      213: 8188031881109088611
+    second: crosshairs_tilesheet_white@2_4
+  - first:
+      213: -1134729115929665751
+    second: crosshairs_tilesheet_white@2_5
+  - first:
+      213: -2217413558437507199
+    second: crosshairs_tilesheet_white@2_6
+  - first:
+      213: -4517976805493677586
+    second: crosshairs_tilesheet_white@2_7
+  - first:
+      213: 4250803121100536933
+    second: crosshairs_tilesheet_white@2_8
+  - first:
+      213: -7363705639443531224
+    second: crosshairs_tilesheet_white@2_9
+  - first:
+      213: 6375418592888085199
+    second: crosshairs_tilesheet_white@2_10
+  - first:
+      213: 2227548712044356553
+    second: crosshairs_tilesheet_white@2_11
+  - first:
+      213: 5183579285794271444
+    second: crosshairs_tilesheet_white@2_12
+  - first:
+      213: -4657497516211202035
+    second: crosshairs_tilesheet_white@2_13
+  - first:
+      213: 441736742038125014
+    second: crosshairs_tilesheet_white@2_14
+  - first:
+      213: -6725618661724553705
+    second: crosshairs_tilesheet_white@2_15
+  - first:
+      213: -1872154530683716149
+    second: crosshairs_tilesheet_white@2_16
+  - first:
+      213: 6721188651940069616
+    second: crosshairs_tilesheet_white@2_17
+  - first:
+      213: 8958625317288385748
+    second: crosshairs_tilesheet_white@2_18
+  - first:
+      213: 6410465574609326868
+    second: crosshairs_tilesheet_white@2_19
+  - first:
+      213: -5263475896373516032
+    second: crosshairs_tilesheet_white@2_20
+  - first:
+      213: 2964060691361728510
+    second: crosshairs_tilesheet_white@2_21
+  - first:
+      213: 6600372718368946094
+    second: crosshairs_tilesheet_white@2_22
+  - first:
+      213: 8818187000841838419
+    second: crosshairs_tilesheet_white@2_23
+  - first:
+      213: 1121787620848694238
+    second: crosshairs_tilesheet_white@2_24
+  - first:
+      213: 1087167867081269295
+    second: crosshairs_tilesheet_white@2_25
+  - first:
+      213: -7282271812669285116
+    second: crosshairs_tilesheet_white@2_26
+  - first:
+      213: -2093086972227017199
+    second: crosshairs_tilesheet_white@2_27
+  - first:
+      213: 6495420669142934528
+    second: crosshairs_tilesheet_white@2_28
+  - first:
+      213: -2480633294287679027
+    second: crosshairs_tilesheet_white@2_29
+  - first:
+      213: 366294680443064603
+    second: crosshairs_tilesheet_white@2_30
+  - first:
+      213: -722178274608327469
+    second: crosshairs_tilesheet_white@2_31
+  - first:
+      213: -3159373933353158410
+    second: crosshairs_tilesheet_white@2_32
+  - first:
+      213: -9074259741061153744
+    second: crosshairs_tilesheet_white@2_33
+  - first:
+      213: 5466536051806531903
+    second: crosshairs_tilesheet_white@2_34
+  - first:
+      213: 952473518571507958
+    second: crosshairs_tilesheet_white@2_35
+  - first:
+      213: -8323779038793304631
+    second: crosshairs_tilesheet_white@2_36
+  - first:
+      213: -6515729022064142291
+    second: crosshairs_tilesheet_white@2_37
+  - first:
+      213: 2954758955292426397
+    second: crosshairs_tilesheet_white@2_38
+  - first:
+      213: -2471183157406661630
+    second: crosshairs_tilesheet_white@2_39
+  - first:
+      213: 2656867715160838496
+    second: crosshairs_tilesheet_white@2_40
+  - first:
+      213: -6916090169558317909
+    second: crosshairs_tilesheet_white@2_41
+  - first:
+      213: -3387426700134321690
+    second: crosshairs_tilesheet_white@2_42
+  - first:
+      213: -768520836972121143
+    second: crosshairs_tilesheet_white@2_43
+  - first:
+      213: -1673423405648004166
+    second: crosshairs_tilesheet_white@2_44
+  - first:
+      213: 7777683237651029755
+    second: crosshairs_tilesheet_white@2_45
+  - first:
+      213: 6235710565737872526
+    second: crosshairs_tilesheet_white@2_46
+  - first:
+      213: 1494693804935880576
+    second: crosshairs_tilesheet_white@2_47
+  - first:
+      213: 6081534194300310738
+    second: crosshairs_tilesheet_white@2_48
+  - first:
+      213: 9070896091190536450
+    second: crosshairs_tilesheet_white@2_49
+  - first:
+      213: 1073392361762778661
+    second: crosshairs_tilesheet_white@2_50
+  - first:
+      213: -7710550771636505343
+    second: crosshairs_tilesheet_white@2_51
+  - first:
+      213: -4063356566416979137
+    second: crosshairs_tilesheet_white@2_52
+  - first:
+      213: -3472208526143754794
+    second: crosshairs_tilesheet_white@2_53
+  - first:
+      213: -891158552081799236
+    second: crosshairs_tilesheet_white@2_54
+  - first:
+      213: -634211368250382927
+    second: crosshairs_tilesheet_white@2_55
+  - first:
+      213: -129644072886207357
+    second: crosshairs_tilesheet_white@2_56
+  - first:
+      213: 3435274916837142192
+    second: crosshairs_tilesheet_white@2_57
+  - first:
+      213: -4061730565496169445
+    second: crosshairs_tilesheet_white@2_58
+  - first:
+      213: -753828262338346427
+    second: crosshairs_tilesheet_white@2_59
+  - first:
+      213: 1115876169499343083
+    second: crosshairs_tilesheet_white@2_60
+  - first:
+      213: -7393966330105306621
+    second: crosshairs_tilesheet_white@2_61
+  - first:
+      213: 3752128207278464056
+    second: crosshairs_tilesheet_white@2_62
+  - first:
+      213: -3293113913636872801
+    second: crosshairs_tilesheet_white@2_63
+  - first:
+      213: 6792096194393389520
+    second: crosshairs_tilesheet_white@2_64
+  - first:
+      213: 27279198145218259
+    second: crosshairs_tilesheet_white@2_65
+  - first:
+      213: 2298817962746053539
+    second: crosshairs_tilesheet_white@2_66
+  - first:
+      213: -1271584735596745383
+    second: crosshairs_tilesheet_white@2_67
+  - first:
+      213: -5052075765769828932
+    second: crosshairs_tilesheet_white@2_68
+  - first:
+      213: -5853278538444688419
+    second: crosshairs_tilesheet_white@2_69
+  - first:
+      213: -692254967668871374
+    second: crosshairs_tilesheet_white@2_70
+  - first:
+      213: -1287031524511186991
+    second: crosshairs_tilesheet_white@2_71
+  - first:
+      213: 2035038460214810388
+    second: crosshairs_tilesheet_white@2_72
+  - first:
+      213: 8075807165383455664
+    second: crosshairs_tilesheet_white@2_73
+  - first:
+      213: -2433399369595294979
+    second: crosshairs_tilesheet_white@2_74
+  - first:
+      213: 5686800721941396773
+    second: crosshairs_tilesheet_white@2_75
+  - first:
+      213: 2218176789869308440
+    second: crosshairs_tilesheet_white@2_76
+  - first:
+      213: 8351515556531701551
+    second: crosshairs_tilesheet_white@2_77
+  - first:
+      213: -1438629237396455823
+    second: crosshairs_tilesheet_white@2_78
+  - first:
+      213: 7701511849585588943
+    second: crosshairs_tilesheet_white@2_79
+  - first:
+      213: 5715337836384696657
+    second: crosshairs_tilesheet_white@2_80
+  - first:
+      213: -5484309547476722876
+    second: crosshairs_tilesheet_white@2_81
+  - first:
+      213: 7671049057939328308
+    second: crosshairs_tilesheet_white@2_82
+  - first:
+      213: -6149509984524681501
+    second: crosshairs_tilesheet_white@2_83
+  - first:
+      213: -7504729998835232903
+    second: crosshairs_tilesheet_white@2_84
+  - first:
+      213: 5179083511668001559
+    second: crosshairs_tilesheet_white@2_85
+  - first:
+      213: -1175187483484489830
+    second: crosshairs_tilesheet_white@2_86
+  - first:
+      213: -741443570437374869
+    second: crosshairs_tilesheet_white@2_87
+  - first:
+      213: 4223203520535080581
+    second: crosshairs_tilesheet_white@2_88
+  - first:
+      213: -8626654610105704583
+    second: crosshairs_tilesheet_white@2_89
+  - first:
+      213: 9037163776630249807
+    second: crosshairs_tilesheet_white@2_90
+  - first:
+      213: 6005709203993155875
+    second: crosshairs_tilesheet_white@2_91
+  - first:
+      213: 5580400729599758821
+    second: crosshairs_tilesheet_white@2_92
+  - first:
+      213: 3064567576201844348
+    second: crosshairs_tilesheet_white@2_93
+  - first:
+      213: 3913842023009668928
+    second: crosshairs_tilesheet_white@2_94
+  - first:
+      213: 4471469062678294205
+    second: crosshairs_tilesheet_white@2_95
+  - first:
+      213: 3682184417074594373
+    second: crosshairs_tilesheet_white@2_96
+  - first:
+      213: -2474223393352822975
+    second: crosshairs_tilesheet_white@2_97
+  - first:
+      213: 5454883691532286990
+    second: crosshairs_tilesheet_white@2_98
+  - first:
+      213: 7456294548295430837
+    second: crosshairs_tilesheet_white@2_99
+  - first:
+      213: 7239800044217475846
+    second: crosshairs_tilesheet_white@2_100
+  - first:
+      213: 246527591047178297
+    second: crosshairs_tilesheet_white@2_101
+  - first:
+      213: -4725335880914385229
+    second: crosshairs_tilesheet_white@2_102
+  - first:
+      213: -7895518989051732941
+    second: crosshairs_tilesheet_white@2_103
+  - first:
+      213: -4453748551708928985
+    second: crosshairs_tilesheet_white@2_104
+  - first:
+      213: 6003885246978812219
+    second: crosshairs_tilesheet_white@2_105
+  - first:
+      213: 5044863602319565813
+    second: crosshairs_tilesheet_white@2_106
+  - first:
+      213: -3128460099492271122
+    second: crosshairs_tilesheet_white@2_107
+  - first:
+      213: -3254884090201917906
+    second: crosshairs_tilesheet_white@2_108
+  - first:
+      213: 8188450547160131243
+    second: crosshairs_tilesheet_white@2_109
+  - first:
+      213: -2597961555201185362
+    second: crosshairs_tilesheet_white@2_110
+  - first:
+      213: -1743772239857402492
+    second: crosshairs_tilesheet_white@2_111
+  - first:
+      213: -6918186429374613938
+    second: crosshairs_tilesheet_white@2_112
+  - first:
+      213: -6506329076386131102
+    second: crosshairs_tilesheet_white@2_113
+  - first:
+      213: -3602101370487716258
+    second: crosshairs_tilesheet_white@2_114
+  - first:
+      213: -8717588249833516226
+    second: crosshairs_tilesheet_white@2_115
+  - first:
+      213: 6220267810328580532
+    second: crosshairs_tilesheet_white@2_116
+  - first:
+      213: -6402680343351949774
+    second: crosshairs_tilesheet_white@2_117
+  - first:
+      213: -5354004751470753135
+    second: crosshairs_tilesheet_white@2_118
+  - first:
+      213: 6803685640316479570
+    second: crosshairs_tilesheet_white@2_119
+  - first:
+      213: 6466709526707040809
+    second: crosshairs_tilesheet_white@2_120
+  - first:
+      213: 7855235244973755912
+    second: crosshairs_tilesheet_white@2_121
+  - first:
+      213: 3582842371434443608
+    second: crosshairs_tilesheet_white@2_122
+  - first:
+      213: -4527394642681725581
+    second: crosshairs_tilesheet_white@2_123
+  - first:
+      213: 7944938208075454353
+    second: crosshairs_tilesheet_white@2_124
+  - first:
+      213: 986873033751548155
+    second: crosshairs_tilesheet_white@2_125
+  - first:
+      213: 7943782198166582514
+    second: crosshairs_tilesheet_white@2_126
+  - first:
+      213: -7180760870560160208
+    second: crosshairs_tilesheet_white@2_127
+  - first:
+      213: -2027582515798767128
+    second: crosshairs_tilesheet_white@2_128
+  - first:
+      213: 5161196992048776404
+    second: crosshairs_tilesheet_white@2_129
+  - first:
+      213: -2536593390718100510
+    second: crosshairs_tilesheet_white@2_130
+  - first:
+      213: 7666606609704155433
+    second: crosshairs_tilesheet_white@2_131
+  - first:
+      213: -6547116151874297371
+    second: crosshairs_tilesheet_white@2_132
+  - first:
+      213: -391236628233972978
+    second: crosshairs_tilesheet_white@2_133
+  - first:
+      213: -899709997553061681
+    second: crosshairs_tilesheet_white@2_134
+  - first:
+      213: -6474034578618129283
+    second: crosshairs_tilesheet_white@2_135
+  - first:
+      213: -4465536249917330040
+    second: crosshairs_tilesheet_white@2_136
+  - first:
+      213: -7771361829561065354
+    second: crosshairs_tilesheet_white@2_137
+  - first:
+      213: 2538936617865652358
+    second: crosshairs_tilesheet_white@2_138
+  - first:
+      213: 7449544489311935014
+    second: crosshairs_tilesheet_white@2_139
+  - first:
+      213: -6289888681325725226
+    second: crosshairs_tilesheet_white@2_140
+  - first:
+      213: 3360294419057644481
+    second: crosshairs_tilesheet_white@2_141
+  - first:
+      213: 5372773274593665589
+    second: crosshairs_tilesheet_white@2_142
+  - first:
+      213: -5704810323683612897
+    second: crosshairs_tilesheet_white@2_143
+  - first:
+      213: 5887342670720993888
+    second: crosshairs_tilesheet_white@2_144
+  - first:
+      213: -2818202071813349591
+    second: crosshairs_tilesheet_white@2_145
+  - first:
+      213: -5225035457990590213
+    second: crosshairs_tilesheet_white@2_146
+  - first:
+      213: -1369199551322120643
+    second: crosshairs_tilesheet_white@2_147
+  - first:
+      213: 822837781293155226
+    second: crosshairs_tilesheet_white@2_148
+  - first:
+      213: 4600975029738934273
+    second: crosshairs_tilesheet_white@2_149
+  - first:
+      213: 5944576341948758373
+    second: crosshairs_tilesheet_white@2_150
+  - first:
+      213: -6167488921234106107
+    second: crosshairs_tilesheet_white@2_151
+  - first:
+      213: 5540477295246480383
+    second: crosshairs_tilesheet_white@2_152
+  - first:
+      213: -8634009542297896747
+    second: crosshairs_tilesheet_white@2_153
+  - first:
+      213: -4000628941391145943
+    second: crosshairs_tilesheet_white@2_154
+  - first:
+      213: -3624317062312241089
+    second: crosshairs_tilesheet_white@2_155
+  - first:
+      213: -2555114940536326025
+    second: crosshairs_tilesheet_white@2_156
+  - first:
+      213: 628584966437165354
+    second: crosshairs_tilesheet_white@2_157
+  - first:
+      213: 342996011792553110
+    second: crosshairs_tilesheet_white@2_158
+  - first:
+      213: -1618383773657076359
+    second: crosshairs_tilesheet_white@2_159
+  - first:
+      213: -3432938651332899504
+    second: crosshairs_tilesheet_white@2_160
+  - first:
+      213: -4481963926907300482
+    second: crosshairs_tilesheet_white@2_161
+  - first:
+      213: 7164936760776124824
+    second: crosshairs_tilesheet_white@2_162
+  - first:
+      213: -5863785736389493707
+    second: crosshairs_tilesheet_white@2_163
+  - first:
+      213: -8652075540476442045
+    second: crosshairs_tilesheet_white@2_164
+  - first:
+      213: 8510885272266599538
+    second: crosshairs_tilesheet_white@2_165
+  - first:
+      213: -8091423563676902018
+    second: crosshairs_tilesheet_white@2_166
+  - first:
+      213: -5071805229756125146
+    second: crosshairs_tilesheet_white@2_167
+  - first:
+      213: 6090482670952155053
+    second: crosshairs_tilesheet_white@2_168
+  - first:
+      213: -3605862602016263488
+    second: crosshairs_tilesheet_white@2_169
+  - first:
+      213: 4448135877315792207
+    second: crosshairs_tilesheet_white@2_170
+  - first:
+      213: -8976711629807244835
+    second: crosshairs_tilesheet_white@2_171
+  - first:
+      213: 7338927071707378672
+    second: crosshairs_tilesheet_white@2_172
+  - first:
+      213: 6676095045247481843
+    second: crosshairs_tilesheet_white@2_173
+  - first:
+      213: 5889198853280489143
+    second: crosshairs_tilesheet_white@2_174
+  - first:
+      213: 4091093347990342306
+    second: crosshairs_tilesheet_white@2_175
+  - first:
+      213: 4558732484374198120
+    second: crosshairs_tilesheet_white@2_176
+  - first:
+      213: 7503265001548413985
+    second: crosshairs_tilesheet_white@2_177
+  - first:
+      213: 7057610374602767471
+    second: crosshairs_tilesheet_white@2_178
+  - first:
+      213: -2669435805213793185
+    second: crosshairs_tilesheet_white@2_179
+  - first:
+      213: 8216470822904859271
+    second: crosshairs_tilesheet_white@2_180
+  - first:
+      213: 8024792924507277724
+    second: crosshairs_tilesheet_white@2_181
+  - first:
+      213: 3436777560455250900
+    second: crosshairs_tilesheet_white@2_182
+  - first:
+      213: 8209007709342086484
+    second: crosshairs_tilesheet_white@2_183
+  - first:
+      213: -6949356554746255884
+    second: crosshairs_tilesheet_white@2_184
+  - first:
+      213: -6164060053297537285
+    second: crosshairs_tilesheet_white@2_185
+  - first:
+      213: -41693584545412955
+    second: crosshairs_tilesheet_white@2_186
+  - first:
+      213: 8098779537974666122
+    second: crosshairs_tilesheet_white@2_187
+  - first:
+      213: 3744287190596518785
+    second: crosshairs_tilesheet_white@2_188
+  - first:
+      213: 4582924477496493537
+    second: crosshairs_tilesheet_white@2_189
+  - first:
+      213: 968520732549816108
+    second: crosshairs_tilesheet_white@2_190
+  - first:
+      213: -5205128945847803631
+    second: crosshairs_tilesheet_white@2_191
+  - first:
+      213: 1256591769393099716
+    second: crosshairs_tilesheet_white@2_192
+  - first:
+      213: -1406901626315883833
+    second: crosshairs_tilesheet_white@2_193
+  - first:
+      213: 9009687128935187864
+    second: crosshairs_tilesheet_white@2_194
+  - first:
+      213: 2802451210961159004
+    second: crosshairs_tilesheet_white@2_195
+  - first:
+      213: -1668110308733238383
+    second: crosshairs_tilesheet_white@2_196
+  - first:
+      213: -4269358136271270550
+    second: crosshairs_tilesheet_white@2_197
+  - first:
+      213: -3765568935672160908
+    second: crosshairs_tilesheet_white@2_198
+  - first:
+      213: -4580221166916941348
+    second: crosshairs_tilesheet_white@2_199
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1242
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac211b4e44a1ee230800000000000000
+      internalID: 3669899629550441162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_1
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1242
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63acf197f4bc3b550800000000000000
+      internalID: 6175503056250063414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_2
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1242
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed95827b53d851430800000000000000
+      internalID: 3753061126328834526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_3
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 1242
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65e7e04dfdd93d510800000000000000
+      internalID: 1572774279543422550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_4
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1242
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 369a4132d9bb1a170800000000000000
+      internalID: 8188031881109088611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_5
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 1242
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f18b091e1a040f0800000000000000
+      internalID: -1134729115929665751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_6
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 1242
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18f8231fd1a2a31e0800000000000000
+      internalID: -2217413558437507199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_7
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 1242
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee1681d580cec41c0800000000000000
+      internalID: -4517976805493677586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_8
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 1242
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56cb15bbae2edfa30800000000000000
+      internalID: 4250803121100536933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_9
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 1242
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a7d6a4cbcdec990800000000000000
+      internalID: -7363705639443531224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_10
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 1242
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcad38b8e690a7850800000000000000
+      internalID: 6375418592888085199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_11
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 1242
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c3684560c7d9ee10800000000000000
+      internalID: 2227548712044356553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_12
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 1242
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d037da85e5cfe740800000000000000
+      internalID: 5183579285794271444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_13
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 1242
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0897fb7fae3d5fb0800000000000000
+      internalID: -4657497516211202035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_14
+      rect:
+        serializedVersion: 2
+        x: 1932
+        y: 1242
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d9bb69f93d512600800000000000000
+      internalID: 441736742038125014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_15
+      rect:
+        serializedVersion: 2
+        x: 2070
+        y: 1242
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71e7b25067dc9a2a0800000000000000
+      internalID: -6725618661724553705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_16
+      rect:
+        serializedVersion: 2
+        x: 2208
+        y: 1242
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd75f99f55c406e0800000000000000
+      internalID: -1872154530683716149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_17
+      rect:
+        serializedVersion: 2
+        x: 2346
+        y: 1242
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f04643f775764d50800000000000000
+      internalID: 6721188651940069616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_18
+      rect:
+        serializedVersion: 2
+        x: 2484
+        y: 1242
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc9bc0e24e635c70800000000000000
+      internalID: 8958625317288385748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_19
+      rect:
+        serializedVersion: 2
+        x: 2622
+        y: 1242
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 413957bd97c86f850800000000000000
+      internalID: 6410465574609326868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1104
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00963d03f8064f6b0800000000000000
+      internalID: -5263475896373516032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_21
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1104
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef780599e75722920800000000000000
+      internalID: 2964060691361728510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_22
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1104
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea77f8f540c399b50800000000000000
+      internalID: 6600372718368946094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_23
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 1104
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f15244b5e706a70800000000000000
+      internalID: 8818187000841838419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_24
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1104
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed3fd1ec5e3619f00800000000000000
+      internalID: 1121787620848694238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_25
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 1104
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2029904a65661f00800000000000000
+      internalID: 1087167867081269295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_26
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 1104
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40dd1089e5c20fa90800000000000000
+      internalID: -7282271812669285116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_27
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 1104
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11629680d7cd3f2e0800000000000000
+      internalID: -2093086972227017199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_28
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 1104
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 004aef23fae542a50800000000000000
+      internalID: 6495420669142934528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_29
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 1104
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc1d9fb6925039dd0800000000000000
+      internalID: -2480633294287679027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_30
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 1104
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b119ce63217551500800000000000000
+      internalID: 366294680443064603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_31
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 1104
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d4577d7fae4af5f0800000000000000
+      internalID: -722178274608327469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_32
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 1104
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f83bdd8526a724d0800000000000000
+      internalID: -3159373933353158410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_33
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 1104
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03cfb6ec7d0c11280800000000000000
+      internalID: -9074259741061153744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_34
+      rect:
+        serializedVersion: 2
+        x: 1932
+        y: 1104
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f317bcf73990ddb40800000000000000
+      internalID: 5466536051806531903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_35
+      rect:
+        serializedVersion: 2
+        x: 2070
+        y: 1104
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f0db646e9dd73d00800000000000000
+      internalID: 952473518571507958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_36
+      rect:
+        serializedVersion: 2
+        x: 2208
+        y: 1104
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c5f1e3c01ffb7c80800000000000000
+      internalID: -8323779038793304631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_37
+      rect:
+        serializedVersion: 2
+        x: 2346
+        y: 1104
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d28d92be9fa7395a0800000000000000
+      internalID: -6515729022064142291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_38
+      rect:
+        serializedVersion: 2
+        x: 2484
+        y: 1104
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d900c176d99610920800000000000000
+      internalID: 2954758955292426397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_39
+      rect:
+        serializedVersion: 2
+        x: 2622
+        y: 1104
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20409dfd20894bdd0800000000000000
+      internalID: -2471183157406661630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 966
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0619d593c171fd420800000000000000
+      internalID: 2656867715160838496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_41
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 966
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba4c7e042ac1500a0800000000000000
+      internalID: -6916090169558317909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_42
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 966
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e1f1d31d517df0d0800000000000000
+      internalID: -3387426700134321690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_43
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 966
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c37acdde5aa555f0800000000000000
+      internalID: -768520836972121143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_44
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 966
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abbb68b574ec6c8e0800000000000000
+      internalID: -1673423405648004166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_45
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 966
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfe13bb52b1efeb60800000000000000
+      internalID: 7777683237651029755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_46
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 966
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8cb4f8a8b1b98650800000000000000
+      internalID: 6235710565737872526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_47
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 966
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f1e2ba8183eb410800000000000000
+      internalID: 1494693804935880576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_48
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 966
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d459acd023f56450800000000000000
+      internalID: 6081534194300310738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_49
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 966
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20924ed6feb42ed70800000000000000
+      internalID: 9070896091190536450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_50
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 966
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52eec7b7aa475ee00800000000000000
+      internalID: 1073392361762778661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_51
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 966
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 105fdf9ecee9ef490800000000000000
+      internalID: -7710550771636505343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_52
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 966
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3b07fe3bbe0c97c0800000000000000
+      internalID: -4063356566416979137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_53
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 966
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dd6e15fdbc30dfc0800000000000000
+      internalID: -3472208526143754794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_54
+      rect:
+        serializedVersion: 2
+        x: 1932
+        y: 966
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb7ec98b408f1a3f0800000000000000
+      internalID: -891158552081799236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_55
+      rect:
+        serializedVersion: 2
+        x: 2070
+        y: 966
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b5ebeaee14d237f0800000000000000
+      internalID: -634211368250382927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_56
+      rect:
+        serializedVersion: 2
+        x: 2208
+        y: 966
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38cf1601769633ef0800000000000000
+      internalID: -129644072886207357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_57
+      rect:
+        serializedVersion: 2
+        x: 2346
+        y: 966
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be23e3065c8caf20800000000000000
+      internalID: 3435274916837142192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_58
+      rect:
+        serializedVersion: 2
+        x: 2484
+        y: 966
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1c11461295d1a7c0800000000000000
+      internalID: -4061730565496169445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_59
+      rect:
+        serializedVersion: 2
+        x: 2622
+        y: 966
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5424ca9703dd985f0800000000000000
+      internalID: -753828262338346427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 828
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be8f458c6736c7f00800000000000000
+      internalID: 1115876169499343083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_61
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 828
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 302efd43cca536990800000000000000
+      internalID: -7393966330105306621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_62
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 828
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c5e8299bc321430800000000000000
+      internalID: 3752128207278464056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_63
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 828
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d17ccd7528c42d0800000000000000
+      internalID: -3293113913636872801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_64
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 828
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d9b913b08f524e50800000000000000
+      internalID: 6792096194393389520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_65
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 828
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d60433494ae06000800000000000000
+      internalID: 27279198145218259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_66
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 828
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a304c8e1ca07ef10800000000000000
+      internalID: 2298817962746053539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_67
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 828
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d62fc8b6c6a5ee0800000000000000
+      internalID: -1271584735596745383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_68
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 828
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb50eeaabdb63e9b0800000000000000
+      internalID: -5052075765769828932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_69
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 828
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd336986e2af4cea0800000000000000
+      internalID: -5853278538444688419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_70
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 828
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23fe81e46cd9466f0800000000000000
+      internalID: -692254967668871374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_71
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 828
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dff7ceb5ab832ee0800000000000000
+      internalID: -1287031524511186991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_72
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 828
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4179c5d82b8ed3c10800000000000000
+      internalID: 2035038460214810388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_73
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 828
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b33c3754d7031070800000000000000
+      internalID: 8075807165383455664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_74
+      rect:
+        serializedVersion: 2
+        x: 1932
+        y: 828
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfaec928a24da3ed0800000000000000
+      internalID: -2433399369595294979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_75
+      rect:
+        serializedVersion: 2
+        x: 2070
+        y: 828
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52d70cb60239bee40800000000000000
+      internalID: 5686800721941396773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_76
+      rect:
+        serializedVersion: 2
+        x: 2208
+        y: 828
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a2d29b90c88ce10800000000000000
+      internalID: 2218176789869308440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_77
+      rect:
+        serializedVersion: 2
+        x: 2346
+        y: 828
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f278833862b86e370800000000000000
+      internalID: 8351515556531701551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_78
+      rect:
+        serializedVersion: 2
+        x: 2484
+        y: 828
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17e3e7da456f80ce0800000000000000
+      internalID: -1438629237396455823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_79
+      rect:
+        serializedVersion: 2
+        x: 2622
+        y: 828
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcab20c093441ea60800000000000000
+      internalID: 7701511849585588943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 690
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1593f052b75f05f40800000000000000
+      internalID: 5715337836384696657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_81
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 690
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44bdd501681d3e3b0800000000000000
+      internalID: -5484309547476722876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_82
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 690
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d8119a97a057a60800000000000000
+      internalID: 7671049057939328308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_83
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 690
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ee30b5204d88aaa0800000000000000
+      internalID: -6149509984524681501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_84
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 690
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97f453ce3d7d9d790800000000000000
+      internalID: -7504729998835232903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_85
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 690
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71bcd0f830dcfd740800000000000000
+      internalID: 5179083511668001559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_86
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 690
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a97fb6ec535e0bfe0800000000000000
+      internalID: -1175187483484489830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_87
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 690
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6c3513400dd5b5f0800000000000000
+      internalID: -741443570437374869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_88
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 690
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58e2ca7f935db9a30800000000000000
+      internalID: 4223203520535080581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_89
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 690
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97fd9ac8657f74880800000000000000
+      internalID: -8626654610105704583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_90
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 690
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f49d21be2947a6d70800000000000000
+      internalID: 9037163776630249807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_91
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 690
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3295e4093b0985350800000000000000
+      internalID: 6005709203993155875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_92
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 690
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e1df18b5e0917d40800000000000000
+      internalID: 5580400729599758821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_93
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 690
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c76d0b949f7878a20800000000000000
+      internalID: 3064567576201844348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_94
+      rect:
+        serializedVersion: 2
+        x: 1932
+        y: 690
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04fcc706592c05630800000000000000
+      internalID: 3913842023009668928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_95
+      rect:
+        serializedVersion: 2
+        x: 2070
+        y: 690
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbea611fb69dd0e30800000000000000
+      internalID: 4471469062678294205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_96
+      rect:
+        serializedVersion: 2
+        x: 2208
+        y: 690
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 542c531e73fb91330800000000000000
+      internalID: 3682184417074594373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_97
+      rect:
+        serializedVersion: 2
+        x: 2346
+        y: 690
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14f4e38ceeac9add0800000000000000
+      internalID: -2474223393352822975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_98
+      rect:
+        serializedVersion: 2
+        x: 2484
+        y: 690
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c7ad4f0d3a3bb40800000000000000
+      internalID: 5454883691532286990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_99
+      rect:
+        serializedVersion: 2
+        x: 2622
+        y: 690
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b2b4d3f2641a7760800000000000000
+      internalID: 7456294548295430837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 552
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 603a07838cfe87460800000000000000
+      internalID: 7239800044217475846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_101
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 552
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93823b3b987db6300800000000000000
+      internalID: 246527591047178297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_102
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 552
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b6c0bd5d0c3c6eb0800000000000000
+      internalID: -4725335880914385229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_103
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 552
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33c583ccf4b7d6290800000000000000
+      internalID: -7895518989051732941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_104
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 552
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7249a780a4b1132c0800000000000000
+      internalID: -4453748551708928985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_105
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 552
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b39616a72d5125350800000000000000
+      internalID: 6003885246978812219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_106
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 552
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f32e8ca7b4f20640800000000000000
+      internalID: 5044863602319565813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_107
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 552
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeba7c36d1a7594d0800000000000000
+      internalID: -3128460099492271122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_108
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 552
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e26b1724a2454d2d0800000000000000
+      internalID: -3254884090201917906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_109
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 552
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba6255c636833a170800000000000000
+      internalID: 8188450547160131243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_110
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 552
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea9ac1aeabf22fbd0800000000000000
+      internalID: -2597961555201185362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_111
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 552
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48dbc120360ecc7e0800000000000000
+      internalID: -1743772239857402492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_112
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 552
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e46b23bb81aadff90800000000000000
+      internalID: -6918186429374613938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_113
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 552
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26395325d20e4b5a0800000000000000
+      internalID: -6506329076386131102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_114
+      rect:
+        serializedVersion: 2
+        x: 1932
+        y: 552
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e56c12763e3c20ec0800000000000000
+      internalID: -3602101370487716258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_115
+      rect:
+        serializedVersion: 2
+        x: 2070
+        y: 552
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e33dd8eaca7e40780800000000000000
+      internalID: -8717588249833516226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_116
+      rect:
+        serializedVersion: 2
+        x: 2208
+        y: 552
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b19e6afd94d25650800000000000000
+      internalID: 6220267810328580532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_117
+      rect:
+        serializedVersion: 2
+        x: 2346
+        y: 552
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 236812c862c1527a0800000000000000
+      internalID: -6402680343351949774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_118
+      rect:
+        serializedVersion: 2
+        x: 2484
+        y: 552
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a05d69b01c2b5b0800000000000000
+      internalID: -5354004751470753135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_119
+      rect:
+        serializedVersion: 2
+        x: 2622
+        y: 552
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2586d7ada0c8b6e50800000000000000
+      internalID: 6803685640316479570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 414
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 922f10d6d0e5eb950800000000000000
+      internalID: 6466709526707040809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_121
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 414
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80e0ac326d6630d60800000000000000
+      internalID: 7855235244973755912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_122
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 414
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85371937720d8b130800000000000000
+      internalID: 3582842371434443608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_123
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 414
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37df2f44f867b21c0800000000000000
+      internalID: -4527394642681725581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_124
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 414
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19714c6c437124e60800000000000000
+      internalID: 7944938208075454353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_125
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 414
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf05c27abc312bd00800000000000000
+      internalID: 986873033751548155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_126
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 414
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f47ace32dbfd3e60800000000000000
+      internalID: 7943782198166582514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_127
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 414
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 036ac359800d85c90800000000000000
+      internalID: -7180760870560160208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_128
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 414
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e98509c1749cd3e0800000000000000
+      internalID: -2027582515798767128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_129
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 414
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d4c1eea15140a740800000000000000
+      internalID: 5161196992048776404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_130
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 414
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ebd4a620c53cccd0800000000000000
+      internalID: -2536593390718100510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_131
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 414
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 929f3149712456a60800000000000000
+      internalID: 7666606609704155433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_132
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 414
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e16f484c88f325a0800000000000000
+      internalID: -6547116151874297371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_133
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 414
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e031ef60c5c029af0800000000000000
+      internalID: -391236628233972978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_134
+      rect:
+        serializedVersion: 2
+        x: 1932
+        y: 414
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc07bfa26869383f0800000000000000
+      internalID: -899709997553061681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_135
+      rect:
+        serializedVersion: 2
+        x: 2070
+        y: 414
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d74eed50adb9726a0800000000000000
+      internalID: -6474034578618129283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_136
+      rect:
+        serializedVersion: 2
+        x: 2208
+        y: 414
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88d2c0ca07a3702c0800000000000000
+      internalID: -4465536249917330040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_137
+      rect:
+        serializedVersion: 2
+        x: 2346
+        y: 414
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 670abf72793962490800000000000000
+      internalID: -7771361829561065354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_138
+      rect:
+        serializedVersion: 2
+        x: 2484
+        y: 414
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6882d1fe66d1c3320800000000000000
+      internalID: 2538936617865652358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_139
+      rect:
+        serializedVersion: 2
+        x: 2622
+        y: 414
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62a18ef5e39126760800000000000000
+      internalID: 7449544489311935014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 276
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d974d0d193d5b8a0800000000000000
+      internalID: -6289888681325725226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_141
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 276
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c398a478f922ae20800000000000000
+      internalID: 3360294419057644481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_142
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 276
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5322edab3dcef8a40800000000000000
+      internalID: 5372773274593665589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_143
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 276
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f176bd96c3174d0b0800000000000000
+      internalID: -5704810323683612897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_144
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 276
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a035f67fa04b150800000000000000
+      internalID: 5887342670720993888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_145
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 276
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f9b4ca52cb3e8d0800000000000000
+      internalID: -2818202071813349591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_146
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 276
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf086a33fe1fc77b0800000000000000
+      internalID: -5225035457990590213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_147
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 276
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3e12dc2340affce0800000000000000
+      internalID: -1369199551322120643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_148
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 276
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a93cfbd3a9e4b6b00800000000000000
+      internalID: 822837781293155226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_149
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 276
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 100180c9962f9df30800000000000000
+      internalID: 4600975029738934273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_150
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 276
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 569fb02ffa06f7250800000000000000
+      internalID: 5944576341948758373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_151
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 276
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5091fadb08da86aa0800000000000000
+      internalID: -6167488921234106107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_152
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 276
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff3984dcebab3ec40800000000000000
+      internalID: 5540477295246480383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_153
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 276
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d83004f016dd2880800000000000000
+      internalID: -8634009542297896747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_154
+      rect:
+        serializedVersion: 2
+        x: 1932
+        y: 276
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 924db3e8c29ea78c0800000000000000
+      internalID: -4000628941391145943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_155
+      rect:
+        serializedVersion: 2
+        x: 2070
+        y: 276
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f38dd7395d6d3bdc0800000000000000
+      internalID: -3624317062312241089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_156
+      rect:
+        serializedVersion: 2
+        x: 2208
+        y: 276
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 778f909cf786a8cd0800000000000000
+      internalID: -2555114940536326025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_157
+      rect:
+        serializedVersion: 2
+        x: 2346
+        y: 276
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2953a352be29b800800000000000000
+      internalID: 628584966437165354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_158
+      rect:
+        serializedVersion: 2
+        x: 2484
+        y: 276
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69455423e0192c400800000000000000
+      internalID: 342996011792553110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_159
+      rect:
+        serializedVersion: 2
+        x: 2622
+        y: 276
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97de9ec48885a89e0800000000000000
+      internalID: -1618383773657076359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 138
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d089f2c70cb50d0800000000000000
+      internalID: -3432938651332899504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_161
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 138
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7553901e8ddcc1c0800000000000000
+      internalID: -4481963926907300482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_162
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 138
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 899e230c508fe6360800000000000000
+      internalID: 7164936760776124824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_163
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 138
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53c708fb0f5af9ea0800000000000000
+      internalID: -5863785736389493707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_164
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 138
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34a4e08f227ade780800000000000000
+      internalID: -8652075540476442045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_165
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 138
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27ced81001dbc1670800000000000000
+      internalID: 8510885272266599538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_166
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 138
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7d10d7932d75bf80800000000000000
+      internalID: -8091423563676902018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_167
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 138
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 620fa6ed3045d99b0800000000000000
+      internalID: -5071805229756125146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_168
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 138
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da786c078bdb58450800000000000000
+      internalID: 6090482670952155053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_169
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 138
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c274f1711765fdc0800000000000000
+      internalID: -3605862602016263488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_170
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 138
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d04106304fabd30800000000000000
+      internalID: 4448135877315792207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_171
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 138
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd9a83655505c6380800000000000000
+      internalID: -8976711629807244835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_172
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 138
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f3bd95d94b19d560800000000000000
+      internalID: 7338927071707378672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_173
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 138
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f7b8ba721146ac50800000000000000
+      internalID: 6676095045247481843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_174
+      rect:
+        serializedVersion: 2
+        x: 1932
+        y: 138
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bedb6d9723aab150800000000000000
+      internalID: 5889198853280489143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_175
+      rect:
+        serializedVersion: 2
+        x: 2070
+        y: 138
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aa8de579bb76c830800000000000000
+      internalID: 4091093347990342306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_176
+      rect:
+        serializedVersion: 2
+        x: 2208
+        y: 138
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86778259a0fd34f30800000000000000
+      internalID: 4558732484374198120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_177
+      rect:
+        serializedVersion: 2
+        x: 2346
+        y: 138
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12cf9e0d3c3f02860800000000000000
+      internalID: 7503265001548413985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_178
+      rect:
+        serializedVersion: 2
+        x: 2484
+        y: 138
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c3f4d2e3ba1f160800000000000000
+      internalID: 7057610374602767471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_179
+      rect:
+        serializedVersion: 2
+        x: 2622
+        y: 138
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f54e587474244fad0800000000000000
+      internalID: -2669435805213793185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_180
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78a0b924ea4c60270800000000000000
+      internalID: 8216470822904859271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_181
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c99035dc5aacd5f60800000000000000
+      internalID: 8024792924507277724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_182
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d308fe7bf2e1bf20800000000000000
+      internalID: 3436777560455250900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_183
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45537c9b4014ce170800000000000000
+      internalID: 8209007709342086484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_184
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f521d0680dee8f90800000000000000
+      internalID: -6949356554746255884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_185
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfe56054a0cd47aa0800000000000000
+      internalID: -6164060053297537285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_186
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a802cfd7efdb6ff0800000000000000
+      internalID: -41693584545412955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_187
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a83ae23a415a46070800000000000000
+      internalID: 8098779537974666122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_188
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1830d8c9c5166f330800000000000000
+      internalID: 3744287190596518785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_189
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e50f99e781d99f30800000000000000
+      internalID: 4582924477496493537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_190
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f9b3d8970e07d00800000000000000
+      internalID: 968520732549816108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_191
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11163ac3dcaa3c7b0800000000000000
+      internalID: -5205128945847803631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_192
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c3fa5a7e8f407110800000000000000
+      internalID: 1256591769393099716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_193
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cab589cc6ea97ce0800000000000000
+      internalID: -1406901626315883833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_194
+      rect:
+        serializedVersion: 2
+        x: 1932
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 895479955b6d80d70800000000000000
+      internalID: 9009687128935187864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_195
+      rect:
+        serializedVersion: 2
+        x: 2070
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5304b1478e44e620800000000000000
+      internalID: 2802451210961159004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_196
+      rect:
+        serializedVersion: 2
+        x: 2208
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 193c9c1238ea9d8e0800000000000000
+      internalID: -1668110308733238383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_197
+      rect:
+        serializedVersion: 2
+        x: 2346
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d80a4256130c4c0800000000000000
+      internalID: -4269358136271270550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_198
+      rect:
+        serializedVersion: 2
+        x: 2484
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47dd30cf0030ebbc0800000000000000
+      internalID: -3765568935672160908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosshairs_tilesheet_white@2_199
+      rect:
+        serializedVersion: 2
+        x: 2622
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd9c031ad19cf60c0800000000000000
+      internalID: -4580221166916941348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: f83231c08e681824b8577d0afdaf9fe4
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
